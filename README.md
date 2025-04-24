@@ -66,8 +66,7 @@ This project uses real-world order data to uncover trends, analyze demand, and p
 ## Author
 
 **Arjita Singh Kushwaha**  
-B.Tech CSE | Final Year  
-[GitHub](https://github.com/Arjita) | [LinkedIn](#)
+B.Tech CSE | Final Year | IITM BS | Degree Level
 
 ---
 
